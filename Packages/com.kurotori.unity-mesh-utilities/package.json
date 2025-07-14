@@ -1,0 +1,11 @@
+{
+    "name": "com.kurotori.unity-mesh-utilities",
+    "version": "0.1.0",
+    "displayName": "Kurotori Unity Mesh Utilities",
+    "description": "A collection of utilities for working with meshes in Unity.",
+    "unity": "2022.3",
+    "keywords": ["Mesh"],
+    "author": { "name": "黒鳥", "url": "https://example.com" },
+    "legacyFolders": {},
+    "vpmDependencies": {}
+}
